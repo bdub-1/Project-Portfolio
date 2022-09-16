@@ -8,8 +8,8 @@ This project is an analysis of the crime in Atlanta from 2009-2022. The data was
 
 Tools used:
 - Python  
--Pandas  
--Altair  
+-- Pandas  
+-- Altair  
 
 *Link to project: [XXX]*  
 *Date Uploaded: 9/16/2022*  
