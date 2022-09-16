@@ -11,6 +11,6 @@ Tools used:
 -- Pandas
 -- Altair
 
-*Link to project: [XXX]*
+*Link to project: [XXX]*  
 *Date Uploaded: 9/16/2022*
 ___
