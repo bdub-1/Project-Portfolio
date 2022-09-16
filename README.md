@@ -11,6 +11,6 @@ Tools used:
 -- Pandas  
 -- Altair  
 
-*Link to project: [https://github.com/bdub-1/Project-Portfolio/blob/main/Projects/Atlanta%20Crime%20Analysis.html]*  
+*Link to project: https://github.com/bdub-1/Project-Portfolio/blob/main/Projects/Atlanta%20Crime%20Analysis.html*  
 *Date Uploaded: 9/16/2022*  
 _______________________________________________________________________________________________________________________________________________________________________
