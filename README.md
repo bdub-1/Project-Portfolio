@@ -13,7 +13,7 @@ Tools used:
 -- Pandas  
 -- Altair  
 
-[Link to project](https://bdub-1.github.io/Project-Portfolio/Atlanta%20Crime%20Analysis.html): HTML Jupyter Notebook
-[CSV parser script that was used](https://www.linkedin.com/pulse/csv-column-name-parser-brandon-wilson/): LinkedIn Article
+[Link to project](https://bdub-1.github.io/Project-Portfolio/Atlanta%20Crime%20Analysis.html): HTML Jupyter Notebook  
+[CSV parser script that was used](https://www.linkedin.com/pulse/csv-column-name-parser-brandon-wilson/): LinkedIn Article  
 *Date Uploaded: 9/16/2022*  
 ____________________________________________________________________________________________________________________________________________________________________
