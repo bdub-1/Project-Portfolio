@@ -14,6 +14,6 @@ Tools used:
 -- Altair  
 
 [Link to project](https://bdub-1.github.io/Project-Portfolio/Atlanta%20Crime%20Analysis.html): HTML Jupyter Notebook  
-[CSV parser script](https://www.linkedin.com/pulse/csv-column-name-parser-brandon-wilson/) that was used: LinkedIn Article  
+[CSV parser](https://www.linkedin.com/pulse/csv-column-name-parser-brandon-wilson/) script that was used: LinkedIn Article  
 *Date Uploaded: 9/16/2022*  
 ____________________________________________________________________________________________________________________________________________________________________
